@@ -1,10 +1,10 @@
+https://example.com/2024/03/06/Linux%E5%9F%BA%E7%A1%80/
 https://example.com/json/music.json
 https://example.com/music/index.html
 https://example.com/categories/index.html
 https://example.com/tags/index.html
 https://example.com/2024/03/06/VTK%E5%9F%BA%E7%A1%80/
 https://example.com/2024/03/06/Makefile%E5%9F%BA%E7%A1%80/
-https://example.com/2024/03/06/Linux%E5%9F%BA%E7%A1%80/
 https://example.com/2024/03/06/CMake%E5%9F%BA%E7%A1%80/
 https://example.com/2024/03/06/Hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/
 https://example.com/link/index.html

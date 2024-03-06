@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://example.com/2024/03/06/Linux%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2024-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://example.com/json/music.json</loc>
     
     <lastmod>2024-03-06</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://example.com/2024/03/06/Makefile%E5%9F%BA%E7%A1%80/</loc>
-    
-    <lastmod>2024-03-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2024/03/06/Linux%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2024-03-06</lastmod>
     
