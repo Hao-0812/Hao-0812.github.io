@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>hao-0812</title>
   <icon>https://www.gravatar.com/avatar/0eede8fcb36c2ec19d42066f90465913</icon>
-  <subtitle>家人闲坐，灯火可亲</subtitle>
+  <subtitle>个人博客</subtitle>
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
@@ -10,7 +10,7 @@
   <id>https://example.com/</id>
   
   <author>
-    <name>haozhong</name>
+    <name>hao zhong</name>
     <email>17384790449@163.com</email>
   </author>
   
