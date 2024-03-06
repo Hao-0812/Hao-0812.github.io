@@ -1,3 +1,4 @@
+https://example.com/2024/03/06/Hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/
 https://example.com/tags/index.html
 https://example.com/link/index.html
 https://example.com/archives/index.html

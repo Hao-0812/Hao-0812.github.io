@@ -6,7 +6,7 @@
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
-  <updated>2024-03-06T04:34:29.547Z</updated>
+  <updated>2024-03-06T07:11:11.769Z</updated>
   <id>https://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo主题设置</title>
+    <link href="https://example.com/2024/03/06/Hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/"/>
+    <id>https://example.com/2024/03/06/Hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/</id>
+    <published>2024-03-06T06:48:57.000Z</published>
+    <updated>2024-03-06T07:11:11.769Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo配置主题"><a href="#Hexo配置主题" class="headerlink" title="Hexo配置主题"></a>Hexo配置主题</h1><h2 id="1-基础配置"><a href="#1-基础配置" class="headerlink" title="1.基础配置"></a>1.基础配置</h2><p>Hexo官方主题网站：<a href="https://hexo.io/themes/">Themes | Hexo</a> </p><ol><li><p>选择主题，并点击进入github页面</p></li><li><p>阅读README</p></li><li><p>复制下载命令</p></li><li><p>在根目录下的git窗口运行下载</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer</span><br></pre></td></tr></table></figure></li><li><p>在根目录下 _config.yml 中更改主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># Extensions</span><br><span class="line">## Plugins: https://hexo.io/plugins/</span><br><span class="line">## Themes: https://hexo.io/themes/</span><br><span class="line">## theme: landscape</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure></li></ol><h2 id="2-深度配置"><a href="#2-深度配置" class="headerlink" title="2.深度配置"></a>2.深度配置</h2><h3 id="anzhiyu"><a href="#anzhiyu" class="headerlink" title="anzhiyu"></a>anzhiyu</h3><p>安知鱼官网：<a href="https://docs.anheyu.com/">安知鱼主题官方文档 (anheyu.com)</a> </p><h4 id="①-安装主题"><a href="#①-安装主题" class="headerlink" title="① 安装主题"></a>① 安装主题</h4><ol><li><p>下载主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure></li><li><p>应用主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># Extensions</span><br><span class="line">## Plugins: https://hexo.io/plugins/</span><br><span class="line">## Themes: https://hexo.io/themes/</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure></li><li><p>安装pug和stylus渲染插件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure></li><li><p>注意删掉 package.json 中的多余依赖：”hexo-renderer-jade”: “^0.5.0”,</p></li><li><p>启动Hexo</p></li></ol><h4 id="②-页面配置"><a href="#②-页面配置" class="headerlink" title="② 页面配置"></a>② 页面配置</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hexo配置主题&quot;&gt;&lt;a href=&quot;#Hexo配置主题&quot; class=&quot;headerlink&quot; title=&quot;Hexo配置主题&quot;&gt;&lt;/a&gt;Hexo配置主题&lt;/h1&gt;&lt;h2 id=&quot;1-基础配置&quot;&gt;&lt;a href=&quot;#1-基础配置&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo搭建个人网站</title>
