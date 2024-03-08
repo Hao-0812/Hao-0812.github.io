@@ -6,7 +6,7 @@
   <link href="https://example.com/atom.xml" rel="self"/>
   
   <link href="https://example.com/"/>
-  <updated>2024-03-06T13:23:16.482Z</updated>
+  <updated>2024-03-08T09:23:59.607Z</updated>
   <id>https://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>macroeconomy</title>
+    <link href="https://example.com/2024/03/08/macroeconomy/"/>
+    <id>https://example.com/2024/03/08/macroeconomy/</id>
+    <published>2024-03-08T08:52:14.000Z</published>
+    <updated>2024-03-08T09:23:59.607Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="宏观经济局势"><a href="#宏观经济局势" class="headerlink" title="宏观经济局势"></a>宏观经济局势</h3><p><strong>CPI</strong>：即居民消费价格指数，是政府用来衡量通货膨胀的一个数据，是一个反映城乡居民家庭一般所购买的消费商品和服务价格水平变动情况的宏观经济指标。对宏观经济政策的选择、调整和节奏把握上具有重要的指标作用。</p><p><strong>CPI就是市场上的货物价格增长百分比。</strong>一般市场经济国家认为CPI在2-3%属于可接受范围内，当然还要看其他数据。<strong>一般说来当CPI&gt;3%的增幅时我们称为就是通货膨胀。</strong> </p><p><strong>而当CPI&gt;5%的增幅时，就是严重的通货膨胀。</strong> </p><p><strong>PPI</strong>：生产者物价指数,PPI是衡量工业企业产品出厂价格变动趋势和变动程度的指数，是反映某一时期生产领域价格变动情况的重要经济指标，也是制定有关经济政策和国民经济核算的重要依据。 </p><p><strong>PPI的大幅上涨，将加大企业采购成本，在原材料价格上涨不能有效转嫁给消费者的前提下，企业利润减少甚至亏损都将是很常见的。</strong> </p><p><strong>CPI上涨和PPI上涨，</strong>意味着通货膨胀上升，经济增速加快，如果上涨幅度过大，会导致高通胀，进而使得经济衰退。<br><strong>CPI下跌和PPI下跌，</strong>意味着经济发展放缓，如果下跌幅度过大，会导致通货紧缩，经济陷入衰退<br><strong>CPI上涨和PPI下跌</strong>，意味着企业利润增大，经济将进入一个扩张期。<br><strong>CPI下跌和PPI上涨</strong>，意味着企业利润减少，经济有衰退的危险。</p><p><strong>杠杆率</strong> </p><p>杠杆率是指权益资本与资产负债表中总资产的比率，杠杆率是衡量公司负债风险的指标，从侧面反映出公司的还款能力。杠杆率的倒数是杠杆倍数，杠杆倍数越高，越容易受到收益率和贷款利率的影响。杠杆是一把双刃剑，当企业盈利时，增加杠杆能扩大盈利，但是加的过多，风险就会上升。因此高杠杆带来收益的同时也放大了风险。</p><p><strong>「同比」</strong> </p><p>与历史「同时期］比较，例如2011年3月份与2010年3月份相比，叫「同比」。</p><p><strong>「环比」</strong> </p><p>与「上一个」统计周期比较，例如2011年4月份与2011年3月份相比较，称为「环比」。</p><p>现阶段我国货币供应量划分为以下三个层次：</p><p>M0 －－流通中的现金</p><p>M1 －－ M0 ＋企业单位活期存款＋机关团体部队存款＋农村存款 ;</p><p>M2 －－ M1 ＋企业单位定期存款＋自筹基本建设存款＋个人储蓄存款＋其他存款。</p><p>M1 是狭义货币供应量， M2 是广义货币供应量； M1 与 M2 之差是准货币。</p><p>租金回报率&#x3D;（月租金-物业费）* 12 &#x2F; 房屋总价</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;宏观经济局势&quot;&gt;&lt;a href=&quot;#宏观经济局势&quot; class=&quot;headerlink&quot; title=&quot;宏观经济局势&quot;&gt;&lt;/a&gt;宏观经济局势&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;CPI&lt;/strong&gt;：即居民消费价格指数，是政府用来衡量通货膨胀的一个数据，是一个反映城</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Linux基础</title>
