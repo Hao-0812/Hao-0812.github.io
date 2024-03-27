@@ -9,8 +9,8 @@ function isLeapYear(year) {
 
 function setTime() {
     var create_time = Math.round(
-        // 这里是你们在一起的时间，注意月份要减一
-        new Date(Date.UTC(2017, 7, 12, 17, 0, 0)).getTime() / 1000
+        // 这里是你们在一起的时间，注意月份要减一,天数也减一处理
+        new Date(Date.UTC(2017, 7, 21, 17, 0, 0)).getTime() / 1000
     );
     var timestamp = Math.round(
         (new Date().getTime() + 8 * 60 * 60 * 1000) / 1000
@@ -33,19 +33,6 @@ function setTime() {
         ' 天 ';
     htmer_time.innerHTML = currentTimeHtml;
 }
-
-// function setDay() {
-//     var create_time = Math.round(
-//         // 这里是你们在一起的时间，注意月份要减一
-//         new Date(Date.UTC(2017, 7, 12, 17, 0, 0)).getTime() / 1000
-//     );
-//     var timestamp = Math.round(
-//         (new Date().getTime() + 8 * 60 * 60 * 1000) / 1000
-//     );
-//     currentDay = secondToDay(timestamp - create_time);
-//     currentTimeHtml = currentDay[0] + ' 天 ';
-//     htmer_time.innerHTML = currentTimeHtml;
-// }
 
 function secondToDate(second) {
     if (!second) {
