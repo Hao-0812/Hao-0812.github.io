@@ -15,9 +15,9 @@
 }
 
 .love_avatar {
-  width: 20px;
-  height: 20px;
-  vertical-align: -10px;
+  width: 50px;
+  height: 50px;
+  vertical-align: -20px;
   border-radius: 50%;
   margin-left: 5px;
   margin-bottom: 5px;
@@ -27,8 +27,8 @@
 }
 
 .love_middle{
-  height: 20px;
-  width: 20px;
+  height: 50px;
+  width: 50px;
   margin-left: 5px;
   margin-right: 5px;
 }

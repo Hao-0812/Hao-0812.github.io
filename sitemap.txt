@@ -13,5 +13,5 @@ https://example.com/link/index.html
 https://example.com/archives/index.html
 https://example.com/about/index.html
 https://example.com/2024/03/06/paper/
-https://example.com/2024/03/05/hello-world/
+https://example.com/2024/07/25/hello-world/
 https://example.com/
