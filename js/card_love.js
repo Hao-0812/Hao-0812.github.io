@@ -53,10 +53,10 @@ function secondToDate(second) {
 function cheesy_pick_up_lines() {
     let html = "";
     for (let i = 0; i < 1; i++) {
-      fetch("https://api.vvhan.com/api/love")
+      fetch("BBB")
         .then((data) => data.text())
         .then((data) => {
-          html += "<li>" + data + "</li>";
+          html += "<li>" + "风行过万里，月沉过海底" + "</li>";
           document.querySelector("#cheesy_pick-up_lines-container").innerHTML =
             html;
         })
