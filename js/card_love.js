@@ -20,7 +20,7 @@ function setTime() {
         ' 分 ' +
         currentTime[4] +
         ' 秒 ';
-    // htmer_time.innerHTML = currentTimeHtml + (timestamp - create_time) / 60 / 60 / 24 + ' 天 ';
+    // htmer_time.innerHTML = currentTimeHtml;
     htmer_time.innerHTML = currentTimeHtml + '<br>' + Math.floor((timestamp - create_time) / 60 / 60 / 24) + ' 天 ';
 
 }

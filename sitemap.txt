@@ -1,3 +1,4 @@
+https://example.com/2024/07/28/MYIssue/
 https://example.com/tags/index.html
 https://example.com/music/index.html
 https://example.com/link/index.html
@@ -15,3 +16,4 @@ https://example.com/2024/03/06/Hexo%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE/
 https://example.com/2024/07/25/hello-world/
 https://example.com/json/music.json
 https://example.com/
+https://example.com/tags/work/
