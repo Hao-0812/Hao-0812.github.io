@@ -21,7 +21,7 @@ function setTime() {
         currentTime[4] +
         ' 秒 ';
     // htmer_time.innerHTML = currentTimeHtml;
-    htmer_time.innerHTML = currentTimeHtml + '<br>' + Math.floor((timestamp - create_time) / 60 / 60 / 24) + ' 天 ';
+    htmer_time.innerHTML = currentTimeHtml + '<br>' + Math.floor((timestamp - create_time) / 60 / 60 / 24 + 1) + ' 天 ';
 
 }
 
