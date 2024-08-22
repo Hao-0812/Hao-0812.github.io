@@ -3,7 +3,7 @@ var htmer_time_time = null;
 function setTime() {
     var create_time = Math.round(
         // 这里是你们在一起的时间，注意月份要减一，日期减一
-        new Date(Date.UTC(2017, 7, 23, 17, 0, 0)).getTime() / 1000
+        new Date(Date.UTC(2017, 7, 23, 24, 0, 0)).getTime() / 1000
     );
     var timestamp = Math.round(
         (new Date().getTime() + 8 * 60 * 60 * 1000) / 1000
